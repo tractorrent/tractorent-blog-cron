@@ -1,0 +1,6 @@
+{
+  "name": "tractorent-blog-cron",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fonction planifiée qui rédige et publie automatiquement des articles de blog pour TractoRent."
+}
